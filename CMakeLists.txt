@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.10)
 
 if(CMAKE_MINOR_VERSION LESS 12)
   project(miniz)
